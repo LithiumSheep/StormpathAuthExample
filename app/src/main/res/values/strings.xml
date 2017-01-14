@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AuthProject</string>
+    <string name="detail">Auth Details</string>
+</resources>
